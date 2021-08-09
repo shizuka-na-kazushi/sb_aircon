@@ -1,6 +1,6 @@
 # What's sb_aircon
 
-sb_aircon is command line JavaScript which sends SwitchBot Hub command.
+sb_aircon is command line JavaScript on NodeJs which sends SwitchBot Hub command.
 
 As I wanted to control an air conditioner in my work room, I developed it ONLY just for air conditioner remote.
 
@@ -35,3 +35,6 @@ Refer to official [SwitchBot developer Github](https://github.com/OpenWonderLabs
 
 # License 
 MIT license
+
+# Blog
+See my blog article, too [shizuka-na-kazushi](https://shizuka-na-kazushi.style/2021/08/09/control-switchbot-api-by-javascript-to-turnon-air-conditioner/).
